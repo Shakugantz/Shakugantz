@@ -2,7 +2,7 @@
 
 ## 🚀 Senior Full Stack Engineer | Software Architect | AI Systems Builder
 
-Systems Engineer with **13+ years of professional experience** designing, building and scaling enterprise software solutions across banking, fintech, retail, logistics and AI domains.
+Systems Engineer with **14+ years of professional experience** designing, building and scaling enterprise software solutions across banking, fintech, retail, logistics and AI domains.
 
 I specialize in **software architecture, distributed systems, security, cloud-native applications and AI-powered products**.
 
