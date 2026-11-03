@@ -1,181 +1,254 @@
 # 👋 Hi, I'm Carlos Jordan Castro
 
-## 🚀 Senior Full Stack Engineer | AI Engineer | Software Architect
+## AI Engineer | Software Architect | Senior Software Engineer
 
-Systems Engineer with **14+ years of professional experience** designing, building and scaling enterprise software solutions across banking, fintech, retail, logistics and AI domains.
+I engineer intelligent software systems by combining **Artificial Intelligence, Enterprise Architecture, and Distributed Systems**.
 
-I specialize in **software architecture, distributed systems, security, cloud-native applications and AI-powered products**.
+With **14+ years of professional software engineering experience**, I specialize in designing and building scalable enterprise applications, AI-powered solutions, intelligent agents, Retrieval-Augmented Generation (RAG) systems, and secure distributed architectures.
 
-🏢 Founder of **Synapse Core X AI**
+My background spans banking, fintech, retail, logistics, and enterprise software, allowing me to bridge the gap between cutting-edge AI capabilities and real-world business requirements.
 
-🧠 Currently building **SynapseOne** and **AzulStore ERP**
+🏢 **Founder & CEO at SynapseCoreXAI**
 
-💡 *"Build software that survives growth."*
+🧠 Building intelligent products, AI agents, and next-generation software ecosystems.
 
----
-
-## 🏆 Professional Highlights
-
-* ✅ 14+ years of software engineering experience
-* ✅ Banking & Financial Systems background
-* ✅ Enterprise Software Architect
-* ✅ AI Product Builder
-* ✅ Full Stack Specialist
-* ✅ Security-Focused Engineer
-* ✅ Cloud-Native Development
-* ✅ Distributed Systems Design
+💡 *"Engineering intelligence. Architecting the future."*
 
 ---
 
-# 🛠️ Technology Stack & Expertise
+## 🧠 AI Engineering & Intelligent Systems
 
-## 🎨 Frontend
+I build AI-powered systems that go beyond simple LLM integrations.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+**Core Expertise:**
+
+- Retrieval-Augmented Generation (RAG) architectures
+- AI Agents and Multi-Agent Systems
+- LLM Integration and Orchestration
+- Agentic Workflows and Intelligent Automation
+- Embeddings and Semantic Search
+- Vector Search and Knowledge Retrieval
+- Tool Calling and Function Calling
+- Prompt Engineering and Context Engineering
+- AI-powered Decision Support Systems
+- AI Integration with Enterprise Applications
+- Context Management and Conversational Systems
+
+**AI Ecosystem:**
+
+- OpenAI
+- Gemini
+- DeepSeek
+- Grok
+- Kimi
+- Python AI Ecosystem
+
+---
+
+## 🏗️ Software Architecture & Engineering
+
+Designing systems that are scalable, maintainable, secure, and production-ready.
+
+- Enterprise Software Architecture
+- Distributed Systems
+- Microservices Architecture
+- Modular Monoliths
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Event-Driven Architecture
+- CQRS
+- API-First Design
+- Backend-for-Frontend (BFF)
+- High-Availability Systems
+- Scalable Multi-Tenant Applications
+- Security by Design
+
+---
+
+## 🛠️ Technology Stack & Expertise
+
+### 🤖 Artificial Intelligence & Backend
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🎨 Frontend & Mobile
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
 
----
+### 🗄️ Databases & Data Infrastructure
 
-## ⚙️ Backend
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+### ☁️ Cloud, DevOps & Infrastructure
 
----
-
-## 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
----
-
-## ☁️ Cloud, DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-EA4C89?style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🔐 Security & Architecture
+## 🔐 Security Engineering
 
-* Clean Architecture
-* CQRS
-* Event-Driven Architecture
-* Domain-Driven Design (DDD)
-* Microservices
-* Modular Monoliths
-* JWT Authentication
-* Refresh Token Rotation
-* HttpOnly Cookies
-* SameSite Policies
-* Rate Limiting
-* API Key Security
-* PostgreSQL RLS
-* RBAC
-* OWASP Best Practices
-* Security Headers
-* Redis Token Blacklisting
+Security is a fundamental part of my architecture decisions, not an afterthought.
+
+- Authentication & Authorization
+- JWT and Refresh Token Rotation
+- HttpOnly, Secure & SameSite Cookies
+- RBAC and API Key Management
+- PostgreSQL Row-Level Security (RLS)
+- Rate Limiting and Abuse Prevention
+- Redis-Based Token Blacklisting
+- CSRF and CORS Protection
+- Content Security Policy (CSP)
+- OWASP Security Best Practices
+- Secure API Design
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Building at SynapseCoreXAI
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakugantz\&show_icons=true\&theme=radical\&hide_title=true\&count_private=true\&include_all_commits=true)
+As the founder of **SynapseCoreXAI**, I'm developing an ecosystem of intelligent software products that combine AI, automation, and enterprise-grade architecture.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakugantz\&layout=compact\&theme=radical)
+### 🧠 SynapseOne
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakugantz\&theme=radical)
+An AI-ready digital superapp ecosystem inspired by next-generation financial and lifestyle platforms.
 
----
+- Modular application architecture
+- Mobile-first experience
+- Financial services and digital payments
+- Marketplace ecosystem
+- Integrated services and mini-apps
+- Secure Backend-for-Frontend architecture
 
-# 🏆 Featured Projects
+### 🤖 SynapseAgents
 
-## 🧠 SynapseOne
+An AI agent engineering ecosystem focused on structured agent collaboration, specialized roles, and coordinated workflows.
 
-Enterprise AI platform focused on intelligent workflows, AI agents, automation and productivity.
+- Specialized AI agents
+- Multi-agent orchestration
+- Role-based responsibilities
+- Structured workflows
+- Context-aware execution
+- Collaborative problem-solving
 
-### Highlights
+### 🧬 SynapseLife
 
-* AI Agents
-* Enterprise Architecture
-* Workflow Automation
-* Modern UX
-* Scalable Design
-* Prompt Engineering
+A predictive personal operating system designed to integrate intelligent assistance, personal information, and proactive AI capabilities.
+
+- AI-powered personal assistance
+- Predictive intelligence
+- Intelligent workflows
+- Personal data integration
+- Context-aware experiences
+
+### 🛡️ SynapseCallShield
+
+An intelligent call protection system designed to improve caller identification and protect users from unwanted communications.
+
+- Intelligent call screening
+- Caller verification workflows
+- Native mobile integrations
+- Automated protection mechanisms
 
 ---
 
 ## 🏪 AzulStore ERP
 
-Modern ERP & POS ecosystem designed for retail stores and warehouses.
+A retail ERP and POS ecosystem engineered from scratch for real-world business operations.
 
-### Tech Stack
+**Architecture & Technology:**
 
-* React + TypeScript
-* NestJS + Prisma
-* PostgreSQL
-* Redis
-* BullMQ
-* AWS S3
-* Socket.IO
+- React + TypeScript
+- NestJS + Prisma
+- PostgreSQL
+- Redis
+- BullMQ
+- AWS S3
+- Socket.IO
+- Docker
 
-### Key Features
+**Core Capabilities:**
 
-* Inventory Management
-* POS System
-* Self-Service Kiosk
-* Financial Services
-* Product Lots & Expiration Tracking
-* Thermal Printing
-* Real-Time Updates
+- Inventory and warehouse management
+- Point of Sale (POS)
+- Product lots and expiration tracking
+- Self-service kiosks
+- Financial operations
+- Thermal receipt printing
+- Real-time synchronization
+- Background job processing
 
-### Security
+**Engineering Focus:**
 
-* JWT Authentication
-* Refresh Token Rotation
-* Redis Blacklist
-* RLS
-* Role Permissions
-* Distributed Rate Limiting
-
----
-
-# 📈 Impact
-
-* ✅ Banking systems processing thousands of transactions daily
-* ✅ Enterprise architectures used in production environments
-* ✅ ERP platforms designed from scratch
-* ✅ AI products currently under active development
-* ✅ Distributed systems using Redis, BullMQ and WebSockets
+- Modular architecture
+- Secure authentication
+- Refresh token rotation
+- Redis-based session management
+- Database Row-Level Security
+- Role-based permissions
+- Distributed rate limiting
 
 ---
 
-# 📞 Connect With Me
+## 🏦 Professional Background
 
-* LinkedIn: https://www.linkedin.com/in/carlosjordanc/
-* Website: https://www.synapsecorexai.com
-* Email: [carlosjordanc91@gmail.com](mailto:carlosjordanc91@gmail.com)
+**14+ Years of Software Engineering**
+
+My experience includes building and maintaining enterprise solutions across different industries, with a strong background in banking and financial systems.
+
+- Banking and financial platforms
+- Enterprise application modernization
+- Banking system integrations and migrations
+- REST APIs and distributed services
+- High-availability business applications
+- CI/CD and DevOps automation
+- AI-powered business solutions
+- Technical leadership and software architecture
+
+I focus on turning complex business requirements into reliable, maintainable, and scalable software.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakugantz&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakugantz&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakugantz&theme=radical)
+
+---
+
+## 📞 Let's Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/carlosjordanc/
+- **Website:** https://www.synapsecorexai.com
+- **Email:** carlosjordanc91@gmail.com
+- **GitHub:** https://github.com/Shakugantz
 
 ---
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shakugantz.Shakugantz)
 
-⭐ Building the future through Architecture, AI and Scalable Software.
+⭐ **Engineering Intelligence. Architecting Scalable Systems. Building the Future with AI.**
