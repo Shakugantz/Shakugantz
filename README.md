@@ -16,7 +16,7 @@ I specialize in **software architecture, distributed systems, security, cloud-na
 
 ## 🏆 Professional Highlights
 
-* ✅ 13+ years of software engineering experience
+* ✅ 14+ years of software engineering experience
 * ✅ Banking & Financial Systems background
 * ✅ Enterprise Software Architect
 * ✅ AI Product Builder
