@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Jordan Castro
 
-## 🚀 Senior Full Stack Engineer | Software Architect | AI Systems Builder
+## 🚀 Senior Full Stack Engineer | AI Engineer | Software Architect
 
 Systems Engineer with **14+ years of professional experience** designing, building and scaling enterprise software solutions across banking, fintech, retail, logistics and AI domains.
 
