@@ -9,6 +9,7 @@ With **14+ years of professional software engineering experience**, I specialize
 My background spans banking, fintech, retail, logistics, and enterprise software, allowing me to bridge the gap between cutting-edge AI capabilities and real-world business requirements.
 
 🏢 **Founder & CEO at SynapseCoreXAI**
+
 🏢 **Founder & CEO at SynapseLinq**
 
 🧠 Building intelligent products, AI agents, and next-generation software ecosystems.
